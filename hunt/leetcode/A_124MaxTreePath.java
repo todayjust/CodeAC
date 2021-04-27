@@ -1,3 +1,5 @@
+package leetcode;
+
 public class A_124MaxTreePath {
 
     static int ans = Integer.MIN_VALUE;
